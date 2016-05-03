@@ -1,7 +1,7 @@
 **MyPlot: Original Code by: @wiez**<br>
 ======<br>
-Edited version of MyPlot made for BluiCraft Servers. <br>
-MCPE Server IP<br>
+Edited version of MyPlot made for BluiCraft Servers. We do not recommend using this version for your server as it may not work properly on certain servers. <br>
+BluiCraftP<br>
 IP: mcbluicraft.tk<br>
 Port: 19132<br>
 www.bluicraft.webs.com<br>
