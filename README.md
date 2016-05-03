@@ -1,10 +1,10 @@
-MyPlot
-======
-Edited version of MyPlot made for BluiCraft Servers.
-MCPE Server IP
-IP: mcbluicraft.tk
-Port: 19132
-
+MyPlot: Original Code by: @wiez
+======<br>
+Edited version of MyPlot made for BluiCraft Servers. <br>
+MCPE Server IP<br>
+IP: mcbluicraft.tk<br>
+Port: 19132<br>
+www.bluicraft.webs.com<br>
 <center>
 [![Join the chat at https://gitter.im/wiez/MyPlot](https://badges.gitter.im/wiez/MyPlot.svg)](https://gitter.im/wiez/MyPlot?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 </center>
@@ -20,16 +20,10 @@ A list of commands and permissions can be found in the [wiki](https://github.com
 Want to try MyPlot before you install it on your server? Check it out these awesome servers that use this plugin:
 <br>
 
-MinePocket<br>
-creative.minepocket.com:19132<br>
-http://minepocket.com<br>
-
-DiamondRealms PlotBuild<br>
-us.diamondrealms.tk:19132<br>
-<!-- Does not seem to be loading
-[https://www.drpe.tk/](https://www.drpe.tk/)<br> 
--->
-
+BluiCraft<br>
+IP: mcbluicraft.tk<br>
+Port: 19132<br>
+www.bluicraft.webs.com
 
 
 </br>
