@@ -1,6 +1,9 @@
 MyPlot
 ======
 Edited version of MyPlot made for BluiCraft Servers.
+MCPE Server IP
+IP: mcbluicraft.tk
+Port: 19132
 
 <center>
 [![Join the chat at https://gitter.im/wiez/MyPlot](https://badges.gitter.im/wiez/MyPlot.svg)](https://gitter.im/wiez/MyPlot?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
