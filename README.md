@@ -1,4 +1,4 @@
-MyPlot: Original Code by: @wiez
+**MyPlot: Original Code by: @wiez**<br>
 ======<br>
 Edited version of MyPlot made for BluiCraft Servers. <br>
 MCPE Server IP<br>
